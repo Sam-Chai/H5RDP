@@ -5,7 +5,7 @@
 
 支持触控屏、支持热键操作、支持软键盘，以及具备简洁美观的 UI
 
-
+var b=window.open('/rdp/'+a.get('id')+'?name='+a.get('name'),'_blank');if(b){b.focus()}else {alert('Please allow popups for this website')}}
 
 
 
